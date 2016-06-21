@@ -1,1 +1,1 @@
-this is only a playground!
+just a very simple practice project for freecodecamp.com backend javascript curriculum!
